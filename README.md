@@ -29,23 +29,39 @@ Storage: LocalStorage (for login sessions & temporary score storage)
 File	Purpose
 File / Page	Description
 index.html -->	Login page that grants access to the quiz interface.
+
 auth.js -->	Handles login/logout using LocalStorage.
+
 main.js -->	Controls the quiz logic (question flow, scoring, UI updates).
+
 question.js -->	Stores all quiz questions and correct answers.
+
 btn_func.js -->	Manages button click functionality and state changes.
+
 btn_style.css -->	CSS for button visuals and hover effects.
+
 style.css -->	Common styles across the app (layout, fonts, etc.).
+
 img_pzl.html -->	Image puzzle game – separate from quiz.
+
 mmry_mtch.html -->	Memory match mini-game.
+
 wrd_pzl.html -->	Word puzzle game interface.
+
 wck_mol.html -->	Likely a separate activity/mini-quiz module.
-sample.html -->	Sample quiz layout or a UI prototype.
+
 st2.html to st9.html -->	Different quiz stages/themes/interfaces.
+
 st2.css to st9.css -->	Corresponding CSS files for each themed stage.
+
 st4.html  -->	Additional quiz interface.
+
 st5.html -->	Extended or styled version of the quiz.
+
 st6.html -->	Custom quiz interface for specific layout.
+
 st7.html -->	Another styled page variant.
+
 st8.css -->	Supporting stylesheet.
 
 🔁 How It Works
